@@ -26,4 +26,4 @@ if not num_wrong:
     print('Nice!  You got it all correct.\n')
 else:
     print('You got {} wrong.  Keep trying!\n'.format(num_wrong))
-print(output_frame.to_string(index=False))
+print(output_frame.to_string(index=False)) 
